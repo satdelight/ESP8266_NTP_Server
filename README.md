@@ -115,4 +115,4 @@ Example: **NetTime** (standalone GUI)
 
 ## License
 
-Choose a license (e.g. MIT) and add a `LICENSE` file if you plan to publish the repository.
+MIT
